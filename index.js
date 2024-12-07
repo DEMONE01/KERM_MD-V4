@@ -1,6 +1,6 @@
 /*created by Kgtech 🕵
-contact dev1 237656520674 ♻️
-contact dev2 237650564445 ♻️
+contact dev1 221764553928 ♻️
+contact dev2 221764553928 ♻️
 © Copy coder alert ⚠
 */
 
@@ -34,7 +34,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['237656520674']
+const ownerNumber = ['221764553928']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -98,7 +98,7 @@ let up = `*╭──────────────●●►*
 *╭⊱✫🐲 KERM_MD-V4 🐲✫⊱╮*
 *│✫➠ - 📂REPOSITORY NAME:* *KERM_MD-V4*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *KG TECH🇨🇲*
+*│✫➠ - 🛡️OWNER:* *~ꨄμก૯ ԁ૯றଇก૯ யଇЯқ૯Яꨄ*
 *│✫➠ - 🌐URL:* *https://github.com/Kgtech-cmr/KERM_MD-V4*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
@@ -171,20 +171,20 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
         
 //================ownerreact==============
-if(senderNumber.includes("923096287432")){
+if(senderNumber.includes("221764553928")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("923154647639")){
+if(senderNumber.includes("221764553928")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("923251869133")){
+if(senderNumber.includes("221764553928")){
 if(isReact) return
 m.react("🦋")
    }
 
-if(senderNumber.includes("447783770746")){
+if(senderNumber.includes("221764553928")){
 if(isReact) return
 m.react("🎀")
    }
